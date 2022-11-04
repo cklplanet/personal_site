@@ -25,7 +25,7 @@ params:
   profileMode:
     enabled: true
     title: "Kaile Chu"
-    subtitle: "👷 Autist | 💻 CS Student | 📚 NYU Shanghai"
+    subtitle: "👷 Undergrad | 💻 CS Student | 📚 NYU Shanghai"
     imageUrl: "img/your_profile_picture.jpg"
     imageTitle: "Profile Picture"
     imageWidth: 200
